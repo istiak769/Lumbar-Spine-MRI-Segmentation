@@ -6,7 +6,7 @@ This project focuses on improving lumbar spine segmentation in MRI using advance
 
 ## Paper Link
 
-You can read the full paper [here](https://arxiv.org/abs/2409.06018).
+You can read the full paper [here](https://doi.org/10.1016/j.mlwa.2025.100635).
 
 ## Results
 ![Class Detection](https://github.com/user-attachments/assets/0d96d9a1-93b9-4c11-ad47-822ea5ab0f86)
